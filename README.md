@@ -1,4 +1,4 @@
-# My-Grow_Path-Of-Becoming_A_Pwner(待改
+# My-Grow_Path-Of-Becoming_A_Pwner(我成为一名安全专业人员的道路)
 
 作者大四网安在读,即将在中科院某所攻读研究生,对网络安全,CTF非常感兴趣.学习的领域包括但不限于系统安全、红队攻防等.
 
