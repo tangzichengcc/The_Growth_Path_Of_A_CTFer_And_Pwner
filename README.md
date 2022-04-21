@@ -119,6 +119,10 @@ hackthebox [https://www.hackthebox.com](https://www.hackthebox.com/)    难度�
 
 关注最新学术动态,前沿领域发展,可以看到未来的方向.可以通过google scholar ,知网,学院介绍等,找到老师们的最新论文.其中许多老师是国内知名CTF战队的领队老师.
 
+
+
+### 国内
+
 * 方滨兴
 
 [https://scss.bupt.edu.cn/info/1063/1160.htm](https://scss.bupt.edu.cn/info/1063/1160.htm)
@@ -140,6 +144,14 @@ hackthebox [https://www.hackthebox.com](https://www.hackthebox.com/)    难度�
 [https://scss.bupt.edu.cn/info/1063/1140.htm](https://scss.bupt.edu.cn/info/1063/1140.htm)
 
 * 龚晓锐(中科院NeSE)
+
+### 国外
+
+* 林志强教授  俄亥俄州立大学（OSU）
+
+主页:http://web.cse.ohio-state.edu/~lin.3021/
+
+https://www.bilibili.com/video/BV1TP4y1b7TR
 
 
 
@@ -223,6 +235,10 @@ http://shell-storm.org/shellcode/)
 
 ## github项目
 
+* https://github.com/PKUFlyingPig/cs-self-learning  csdiy.wiki  北京大学信科的一个大佬创建的计算机自学指南网站(一本书!)
+
+
+
 
 
 ## 一些工具:
@@ -291,4 +307,4 @@ ctfshow
 
 [https://zhuanlan.zhihu.com/p/429964403](https://zhuanlan.zhihu.com/p/429964403)
 
-https://eternalsakura13.com/2018/05/31/shudan/)
+https://eternalsakura13.com/2018/05/31/shudan/
