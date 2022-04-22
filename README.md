@@ -12,7 +12,7 @@
 # 目录:
 
 * 个人现阶段学习规划及进度
-* 综述:心路历程、职业规划
+* 综述:心路历程、职业规划   (tips目录)
 * 常规学习资源
 * 非常规学习资源
 * CTF专栏
@@ -27,7 +27,7 @@
 
 预计六月份毕业.然后七八月份参加hvv赚点钱~ 然后就玩一段时间 等着研究生开学了!
 
-# 综述类:心路历程、职业规划:
+# 💫综述类:心路历程、职业规划:
 
 你为什么选择安全这条路?不同人有不同的看法. 你能坚持下去吗?
 
@@ -65,7 +65,7 @@ MIT 操作系统神级课程 6.828：[https://github.com/prakhar1989/awesome-cou
 
 
 
-## 书籍：
+## 📖书籍：
 
 ### 计算机基础:
 
@@ -77,6 +77,16 @@ MIT 操作系统神级课程 6.828：[https://github.com/prakhar1989/awesome-cou
 
 《操作系统真象还原》  内核
 
+
+
+### 操作系统
+
+* https://pages.cs.wisc.edu/~remzi/OSTEP/
+
+  对应的练习项目https://github.com/remzi-arpacidusseau/ostep-projects
+
+
+
 ### python
 
 《python黑帽子编程》 对于安全人员是本很好的书,有丰富的实践例子,而且都是很实用的!
@@ -87,7 +97,7 @@ MIT 操作系统神级课程 6.828：[https://github.com/prakhar1989/awesome-cou
 
 
 
-## 学习网站
+## 🌐学习网站
 
 菜鸟教程     www.runoob.com 编程入门强烈推荐,简单易懂,例子丰富
 
@@ -177,7 +187,9 @@ https://www.bilibili.com/video/BV1TP4y1b7TR
 
 * 腾讯安全玄武实验室   [sec.today/](https://link.zhihu.com/?target=https%3A//sec.today/)
 
-* Google project zero最新漏洞披露
+* Google project zero https://googleprojectzero.blogspot.com
+
+  最新漏洞披露
 
 [https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID Status Restrict Reported Vendor Product Finder Summary](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Status%20Restrict%20Reported%20Vendor%20Product%20Finder%20Summary)
 
@@ -293,9 +305,9 @@ ctfshow
 
 [http://www.wechall.net/active_sites](http://www.wechall.net/active_sites)  一个ctf网站，同时也收录了很多学习网站
 
+https://bbs.ctf.show/thread/47
 
-
-
+https://bbs.pwnthebox.com/d/20/2
 
 
 
