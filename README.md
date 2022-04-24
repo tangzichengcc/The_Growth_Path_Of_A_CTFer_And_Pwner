@@ -85,7 +85,9 @@ MIT 操作系统神级课程 6.828：[https://github.com/prakhar1989/awesome-cou
 
   对应的练习项目https://github.com/remzi-arpacidusseau/ostep-projects
 
+### 逆向
 
+《C++反汇编与逆向分析技术揭秘第2版》
 
 ### python
 
@@ -290,6 +292,8 @@ SU:[https://team-su.github.io](https://team-su.github.io/)
 天璇Merak: 微信公众号,有一些文章,更新较少
 
 ## ctf练习网站
+
+ctftime
 
 ctfhub
 
