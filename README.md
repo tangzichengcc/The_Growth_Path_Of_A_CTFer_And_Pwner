@@ -11,11 +11,33 @@
 
 # 目录:
 
+* 近期网安活动、CTF竞赛日程
+
 * 个人现阶段学习规划及目标
 * 综述:心路历程、职业规划   (tips目录)
 * 常规学习资源
 * 非常规学习资源
 * CTF专栏
+
+
+
+# 近期网安活动、CTF竞赛日程
+
+## 网安活动
+
+* ISC 互联网安全大会 征集议题中
+
+## CTF日程
+
+* 4.30左右。中国海洋大学CTF
+
+* ISCC https://www.isclab.org.cn/2022/04/02/2022年第19届信息安全与对抗技术竞赛通知/
+
+  2022年4月30日上午8:00开放注册，5月1日上午8:00正式开始，比赛一般持续25天左右。
+
+* 春秋杯. 4月7日10:00 - 5月6日16:00 报名 https://bm.ichunqiu.com/cqgamectf
+
+
 
 
 
@@ -210,7 +232,7 @@ https://www.bilibili.com/video/BV1TP4y1b7TR
 * Eastmount（csdn）、娜璋ai安全之家（公众号）：博士在读，研究AI、网络安全   [https://blog.csdn.net/Eastmount](https://blog.csdn.net/Eastmount)
 * [http://shell-storm.org](http://shell-storm.org/) 国外大佬，还有很多shellcode样本[http://shell-storm.org/shellcode/](
 
-
+http://scz.617.cn:8   不知道是哪个大佬.. 
 
 
 
@@ -237,6 +259,8 @@ http://shell-storm.org/shellcode/)
 [https://elnx.github.io/def-con-ctf-2021/](https://elnx.github.io/def-con-ctf-2021/)
 
 [https://oooverflow.io](https://oooverflow.io/)
+
+pwn :https://ctfking.com
 
 ## 微信公众号
 
@@ -322,6 +346,12 @@ ctfshow
 https://bbs.ctf.show/thread/47
 
 https://bbs.pwnthebox.com/d/20/2
+
+### ctf导航
+
+http://www.ctfiot.com. ChaMd5团队做的
+
+https://ctf.mzy0.com
 
 
 
