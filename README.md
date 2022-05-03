@@ -293,6 +293,14 @@ pwn :https://ctfking.com
 
 Compiler Explorer   在线应用层代码转汇编
 
+在线运行汇编 https://www.tutorialspoint.com/compile_assembly_online.php
+
+https://www.textcompare.org diff网站,比较各种内容的不同
+
+https://gchq.github.io/CyberChef/ 解密解码工具
+
+https://cloudconvert.com 在线格式转换
+
 ## 修身养性
 
 《精力管理》
