@@ -1,13 +1,15 @@
-# The_Growth_Path_Of_A_Pwner(一名安全从业者的成长之路x 一名安全菜鸟的成长之路)
+# The_Growth_Path_Of_A_CTFer/Pwner(一名安全从业者的成长之路x 一名安全菜鸟的成长之路)
 
 
 作者大四网安在读,即将在中科院某所攻读研究生,(然而还只是一名菜狗),对网络安全,CTF非常感兴趣.学习的领域包括但不限于系统安全、红队攻防等.
 
 这个仓库会记录自己的成长历程以及精心整理,学习收集的资料. 欢迎pr!
 
-这些资料自己基本上都看过或者正在学习~ 会给出对资料的自己的理解,所以相对有较好的参考价值!
+这些资料自己基本上都看过或者正在学习~ 会给出对资料的自己的理解,所以相对有较好的参考价值!(应该吧..)
 
 
+
+此外,还包含了一些网安的活动日历,ctf日历等.可以参考!
 
 # 目录:
 
@@ -29,13 +31,19 @@
 
 ## CTF日程
 
-* 4.30左右。中国海洋大学CTF
+* ✅4.30左右。中国海洋大学CTF
 
 * ISCC https://www.isclab.org.cn/2022/04/02/2022年第19届信息安全与对抗技术竞赛通知/
 
   2022年4月30日上午8:00开放注册，5月1日上午8:00正式开始，比赛一般持续25天左右。
 
 * 春秋杯. 4月7日10:00 - 5月6日16:00 报名 https://bm.ichunqiu.com/cqgamectf
+
+* 第六届蓝帽杯全国大学生网络安全技能大赛-初赛   比赛时间：5月25日https://www.qianxin.com/bluehatcup/2022
+
+* 2022KCTF春季赛-攻击篇.  比赛时间：5月10日 https://ctf.pediy.com 持续约一个月
+
+* DEF CON CTF 2022 Qualifiers https://quals.2022.nautilus.institute/ 
 
 
 
@@ -113,9 +121,15 @@ MIT 操作系统神级课程 6.828：[https://github.com/prakhar1989/awesome-cou
 
 ### 操作系统
 
-* https://pages.cs.wisc.edu/~remzi/OSTEP/
+* https://pages.cs.wisc.edu/~remzi/OSTEP/  
 
   对应的练习项目https://github.com/remzi-arpacidusseau/ostep-projects
+  
+* http://www.oldlinux.org
+
+* 
+
+  
 
 ### 逆向
 
@@ -305,6 +319,8 @@ https://cloudconvert.com 在线格式转换
 
 《精力管理》
 
+程序员延寿指南:https://github.com/geekan/HowToLiveLonger
+
 ## 其余资源获取途径
 
 youtube
@@ -345,6 +361,8 @@ buuctf
 
 ctfshow
 
+看雪ctf区
+
 [https://pwnable.kr](https://pwnable.kr/)            PWN选手的专属
 
 [http://pwnable.tw](http://pwnable.tw/)             PWN选手的专属
@@ -354,6 +372,10 @@ ctfshow
 https://bbs.ctf.show/thread/47
 
 https://bbs.pwnthebox.com/d/20/2
+
+https://hack.zkaq.cn/。 掌控安全的,作者还未用过,暂作记录
+
+http://www.zxsctf.com 中学生ctf
 
 ### ctf导航
 
