@@ -57,6 +57,14 @@
 
 预计六月份毕业.然后七八月份参加hvv赚点钱~ 然后就玩一段时间 等着研究生开学了!
 
+
+
+5.17 最近躺了好久...被毕设和人生折磨的憔悴不堪...
+
+as time goes by, some romantic memories remain ~
+
+最近打算开一个新的仓库,记录人生的某些事件,总感觉这个时代太快,而记忆会遗忘,但总有些东西,值得留念
+
 ## 目标
 
 ### 2022年完成pwn入门呀!
@@ -173,7 +181,7 @@ hackthebox [https://www.hackthebox.com](https://www.hackthebox.com/)    难度�
 
 
 
-## 学术界大佬(排名不分先后):
+## 学术界大佬 | 团队(排名不分先后):
 
 关注最新学术动态,前沿领域发展,可以看到未来的方向.可以通过google scholar ,知网,学院介绍等,找到老师们的最新论文.其中许多老师是国内知名CTF战队的领队老师.
 
@@ -190,6 +198,8 @@ hackthebox [https://www.hackthebox.com](https://www.hackthebox.com/)    难度�
 [https://www.insc.tsinghua.edu.cn/info/1181/1239.htm](https://www.insc.tsinghua.edu.cn/info/1181/1239.htm)
 
 主页:[http://netsec.ccert.edu.cn/people/duanhx/](http://netsec.ccert.edu.cn/people/duanhx/)
+
+研究团队:https://netsec.ccert.edu.cn/chs/people/
 
 * 诸葛建伟(清华蓝莲花):
 
