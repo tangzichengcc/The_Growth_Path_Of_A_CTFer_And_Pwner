@@ -25,6 +25,10 @@
 
 
 
+个人博客:https://blog.csdn.net/qq_43200143
+
+
+
 # 🎯个人现阶段学习规划及目标 + 感想
 
 大四下学期,在做毕设.同时学习系统安全和PWN的基础知识.
@@ -230,7 +234,7 @@ https://www.bilibili.com/video/BV1TP4y1b7TR
 
 先知社区  阿里旗下
 
-
+https://wiki.freebuf.com
 
 
 
@@ -354,19 +358,27 @@ SU:[https://team-su.github.io](https://team-su.github.io/)
 
 ## CTF学习、练习网站
 
-ctftime
+CTFwiki（入门必看wiki）: https://ctf-wiki.github.io/ctf-wiki/#/introduction
+
+CTFrank: https://ctfrank.org/
+
+ctftime     ctf各个比赛日程,很权威
 
 ctfhub
 
-攻防世界  xctf官方
+攻防世界  xctf官方: https://time.xctf.org.cn
 
-i春秋
+i春秋   https://www.ichunqiu.com/competition
 
-buuctf
+buuctf   https://buuoj.cn/
 
-ctfshow
+ctfshow https://ctf.show/challenges
 
 看雪ctf区
+
+bugku https://ctf.bugku.com/
+
+实验吧: http://www.shiyanbar.com
 
 [https://pwnable.kr](https://pwnable.kr/)            PWN选手的专属
 
