@@ -1,7 +1,7 @@
 # The_Growth_Path_Of_A_CTFer/Pwner(一名CTF爱好者、安全从业者的成长之路❌ 一名安全菜鸟的成长之路✅)
 
 
-作者大四网安在读,即将在中科院某所攻读研究生,(然而还只是一名菜狗),对网络安全,CTF非常感兴趣.学习的领域包括但不限于系统安全、红队攻防等.
+作者:中科院某所网络安全方向研究生在读,(然而还只是一名菜狗),对网络安全,CTF非常感兴趣.学习的领域包括但不限于系统安全、红队攻防等.
 
 这个仓库会记录自己的成长历程以及精心整理,学习收集的资料. 欢迎pr!
 
@@ -11,39 +11,90 @@
 
 此外,还包含了一些网安的活动日历,ctf日历等.可以参考!
 
-[toc]
+Table of Contents 目录
+=================
+
+* [近期更新](#近期更新)
+* [🎯个人现阶段学习规划及目标 + 感想](#个人现阶段学习规划及目标--感想)
+* [近期网安活动、CTF竞赛日程](#近期网安活动ctf竞赛日程)
+   * [网安活动](#网安活动)
+   * [🗓🚩CTF日程](#ctf日程)
+   * [目标](#目标)
+      * [2022年完成pwn入门呀!](#2022年完成pwn入门呀)
+* [💫综述类:心路历程、职业规划:](#综述类心路历程职业规划)
+* [常规学习资源](#常规学习资源)
+   * [国内外高校优质课程:](#国内外高校优质课程)
+   * [📖书籍：](#书籍)
+      * [计算机基础:](#计算机基础)
+      * [操作系统](#操作系统)
+      * [逆向](#逆向)
+      * [python](#python)
+      * [计算机网络](#计算机网络)
+   * [🌐学习网站](#学习网站)
+* [非常规学习资源](#非常规学习资源)
+   * [学术界大佬 | 团队(排名不分先后):](#学术界大佬--团队排名不分先后)
+      * [国内](#国内)
+      * [国外](#国外)
+   * [安全社区](#安全社区)
+      * [二进制、逆向](#二进制逆向)
+      * [web安全、渗透测试](#web安全渗透测试)
+   * [其他](#其他)
+   * [安全团队网站](#安全团队网站)
+   * [个人博客](#个人博客)
+   * [微信公众号](#微信公众号)
+   * [知识星球](#知识星球)
+   * [github项目](#github项目)
+   * [一些工具:](#一些工具)
+   * [修身养性](#修身养性)
+   * [其余资源获取途径](#其余资源获取途径)
+* [🚩CTF专栏](#ctf专栏)
+   * [书籍](#书籍-1)
+   * [CTF战队资源](#ctf战队资源)
+   * [CTF学习、练习网站](#ctf学习练习网站)
+      * [ctf导航](#ctf导航)
+* [参考链接：](#参考链接)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+
+
+
+
 
 # 近期更新
 
-6.21 终于忙完毕业的事了! 毕业设计答辩都顺利过关了!
-
-​		护网的面试也比较顺利,拿到了蓝队中级,接下来一段时间主要看蓝队相关资料 以及pwn入门的基础知识
-
-
-
-5.23 即将🎓毕业，毕业答辩在即，比较忙，最近没有更新。加上最近情绪有些波动。我会回来的！等六月重新归来，正式开始pwn入门篇章！
-
-
-
-个人博客:https://blog.csdn.net/qq_43200143
+更新了一下目录和少部分内容...
 
 
 
 # 🎯个人现阶段学习规划及目标 + 感想
 
-大四下学期,在做毕设.同时学习系统安全和PWN的基础知识.
-
-最近在学习南京大学os课程. 哈佛cs50.
-
-预计六月份毕业.然后七八月份参加hvv赚点钱~ 然后就玩一段时间 等着研究生开学了!
+最近先适应适应雁栖湖~ 然后开始看看暑假积攒的关于pwn的资源...
 
 
 
-as time goes by, some romantic memories remain ~
+8.21-2
+
+​	18号来国科大雁栖湖报道了,过去两三天了,有很多话想说,但又不知道从何说起.
+
+​	今天早上来了国科大图书馆,这才算是正式入学了吧!
+
+​	总的来说,身边的同学都好厉害呀,随便聊一聊就感觉,肯定对计算机有不少的了解,大部分还是做网安的! 感觉当初自己的决定还是可以的,来到了一个网安人集结的地方,可以有许多志同道合的小伙伴一起讨论和学习网安! 当然就是压力有点大罢了hhh, 身边同学太强了, 而且本身还非常自律,非常努力.
+
+​	未来三年(雁栖湖一年),希望能够沉下心来学一点东西并且交到好朋友,向优秀的老师和身边的同学学习,不论是在学习还是其他方面.
 
 
 
-最近护网面试,安全的广度和深度,高度
+​	今年的计划大概是认真学习学校的课,感觉很多都比较硬核. 然后看看导师有分配什么任务吧. 自己的话,pwn入门,以及整理一下自己的技术栈,多输出一点博客.
+
+
+
+8.21-1
+
+​    暑假还是很充实的,七月底八月初hw, 认识了一些新朋友,参与了不少项目学到了很多,然后听了一点HWS的课, 参加了长亭的pwnhub的讲师活动,幸运通关~拿到银牌讲师🥈
+
+
+
+个人博客: 待搭建,垃圾csdn!!!!
 
 
 
@@ -51,7 +102,7 @@ as time goes by, some romantic memories remain ~
 
 ## 网安活动
 
-* ISC 互联网安全大会 征集议题中
+* 
 
 ## 🗓🚩CTF日程
 
@@ -66,7 +117,7 @@ as time goes by, some romantic memories remain ~
 
 ### 2022年完成pwn入门呀!
 
-5月份:完成栈相关知识和漏洞的初步入门,了解寄存器,栈的结构,内存布局,架构相关,调用约定等,栈相关漏洞,ida和gdb的初步使用. 攻防世界等平台的栈相关的简单题
+✅5月份:完成栈相关知识和漏洞的初步入门,了解寄存器,栈的结构,内存布局,架构相关,调用约定等,栈相关漏洞,ida和gdb的初步使用. 攻防世界等平台的栈相关的简单题
 
 6月份:进行栈的进阶和字符串漏洞,整数漏洞等的学习
 
@@ -158,8 +209,6 @@ tryhackme [https://tryhackme.com](https://tryhackme.com/dashboard)    强烈推�
 
 hackthebox [https://www.hackthebox.com](https://www.hackthebox.com/)    难度中高,适合有一定基础后的渗透测试,红队、CTF进阶,
 
-
-
 [https://trailofbits.github.io/ctf/](https://trailofbits.github.io/ctf/)
 
 [https://security.ntu.st/](https://link.zhihu.com/?target=https%3A//security.ntu.st/)
@@ -167,10 +216,6 @@ hackthebox [https://www.hackthebox.com](https://www.hackthebox.com/)    难度�
 [https://etenal.me/archives/972#C1](https://etenal.me/archives/972#C1)
 
 [https://github.com/BrieflyX/ctf-pwns](https://github.com/BrieflyX/ctf-pwns)
-
-
-
-
 
 
 
@@ -236,6 +281,10 @@ https://www.bilibili.com/video/BV1TP4y1b7TR
 
 https://wiki.freebuf.com
 
+## 其他
+
+v2ex 分享探索 社区 https://www.v2ex.com
+
 
 
 ## 安全团队网站
@@ -250,10 +299,33 @@ https://wiki.freebuf.com
 
 ## 个人博客
 
+pwn手
+
+* https://xuanxuanblingbling.github.io
+
+* https://blingblingxuanxuan.github.io/
+* https://blog.flanker017.me
 * Eastmount（csdn）、娜璋ai安全之家（公众号）：博士在读，研究AI、网络安全   [https://blog.csdn.net/Eastmount](https://blog.csdn.net/Eastmount)
 * [http://shell-storm.org](http://shell-storm.org/) 国外大佬，还有很多shellcode样本[http://shell-storm.org/shellcode/](
 
 http://scz.617.cn:8   不知道是哪个大佬.. 
+
+http://showlinkroom.me
+
+web手
+
+https://www.leavesongs.com 离别歌 phith0n
+
+https://blog.zeddyu.info
+
+https://evoa.me/archive.html
+
+https://meizjm3i.github.io
+
+* https://www.sqlsec.com 国光,很多博客都比较详细,内容也比较新颖 独特
+* https://www.leadroyal.cn
+
+http://bendawang.site/
 
 
 
@@ -306,7 +378,7 @@ pwn :https://ctfking.com
 
 * https://github.com/PKUFlyingPig/cs-self-learning  csdiy.wiki  北京大学信科的一个大佬创建的计算机自学指南网站(一本书!)
 
-
+gdb使用技巧 https://wizardforcel.gitbooks.io/100-gdb-tips/content/index.html
 
 
 
@@ -321,6 +393,8 @@ https://www.textcompare.org diff网站,比较各种内容的不同
 https://gchq.github.io/CyberChef/ 解密解码工具
 
 https://cloudconvert.com 在线格式转换
+
+https://web.archive.org 查看历史网站记录 
 
 ## 修身养性
 
@@ -393,6 +467,12 @@ https://bbs.pwnthebox.com/d/20/2
 https://hack.zkaq.cn/。 掌控安全的,作者还未用过,暂作记录
 
 http://www.zxsctf.com 中学生ctf
+
+
+
+gdb手册
+
+https://sourceware.org/gdb/onlinedocs/gdb/
 
 ### ctf导航
 
