@@ -292,6 +292,14 @@ https://www.bilibili.com/video/BV1TP4y1b7TR
 
 
 
+## 学术资源
+
+公众号: 网安国际
+
+
+
+
+
 
 
 ## 安全社区
