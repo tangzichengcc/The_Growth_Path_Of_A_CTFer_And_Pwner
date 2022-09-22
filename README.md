@@ -132,7 +132,15 @@ Table of Contents 目录
 
 7-9月份:开始学习堆相关知识.
 
+主要看的大佬博客: (感谢各位大佬的贡献!!!!!!!!!!!!!!!!!!!!!!)
 
+https://bestwing.me/archives/page/14/
+
+Atum
+
+主要刷题:
+
+pwnable.kr
 
 # 近期网安活动、CTF竞赛日程
 
@@ -435,6 +443,8 @@ https://cloudconvert.com 在线格式转换
 
 https://web.archive.org 查看历史网站记录 
 
+https://cloudconvert.com  各种文件的格式转换
+
 ## 修身养性
 
 《精力管理》
@@ -458,6 +468,8 @@ Twitter
 《从0到1，CTFer的成长之路》
 
 ## CTF战队资源
+
+清华:https://redbud.info
 
 复旦白泽战队:知乎、微信公众号
 
