@@ -134,7 +134,29 @@ Table of Contents 目录
 
 主要看的大佬博客: (感谢各位大佬的贡献!!!!!!!!!!!!!!!!!!!!!!)
 
+https://xuanxuanblingbling.github.io
+
+https://blingblingxuanxuan.github.io
+
 https://bestwing.me/archives/page/14/
+
+https://etenal.me/archives/1121 待看
+
+http://blog.imv1.me
+
+
+
+https://eqqie.cn
+
+
+
+
+
+[https://trailofbits.github.io/ctf/](https://trailofbits.github.io/ctf/)
+
+[https://security.ntu.st/](https://link.zhihu.com/?target=https%3A//security.ntu.st/)
+
+https://github.com/BrieflyX/ctf-pwns 
 
 Atum
 
@@ -340,6 +362,8 @@ v2ex 分享探索 社区 https://www.v2ex.com
 
 [https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID Status Restrict Reported Vendor Product Finder Summary](https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=&sort=-id&colspec=ID%20Status%20Restrict%20Reported%20Vendor%20Product%20Finder%20Summary)
 
+r3kapig: https://r3kapig.com/
+
 ## 个人博客
 
 pwn手
@@ -354,6 +378,12 @@ pwn手
 http://scz.617.cn:8   不知道是哪个大佬.. 
 
 http://showlinkroom.me
+
+https://eternalsakura13.com/
+
+https://kiprey.github.io/
+
+http://blog.eonew.cn/
 
 
 
@@ -380,7 +410,7 @@ http://bendawang.site/
 
 [http://note.taqini.space/#/README](http://note.taqini.space/#/README)
 
-http://shell-storm.org/shellcode/)
+http://shell-storm.org/shellcode/
 
 [https://binhack.readthedocs.io/zh/latest/](https://binhack.readthedocs.io/zh/latest/)
 
@@ -444,6 +474,8 @@ https://cloudconvert.com 在线格式转换
 https://web.archive.org 查看历史网站记录 
 
 https://cloudconvert.com  各种文件的格式转换
+
+https://www.ilovepdf.com  pdf操作，切割等
 
 ## 修身养性
 
